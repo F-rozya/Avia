@@ -1,0 +1,46 @@
+/* .fa-solid {
+}
+.fa-caret-down {
+}
+.fa-caret-up {
+}
+.fa-brands {
+} */
+.fa-facebook-f {
+      color: rgba(97, 97, 97, 0.5);
+      font-size: 25px;
+      transition: 0.1s;
+      
+}
+.fa-instagram {
+      color: rgba(97, 97, 97, 0.5); 
+      font-size: 25px;
+      transition: 0.1s;
+}
+.fa-youtube {
+      color: rgba(97, 97, 97, 0.5   );
+      font-size: 25px;
+      transition: 0.1s;
+}
+.fa-mobile {
+      color: rgba(97, 97, 97, 0.5);
+      font-size: 50px;
+}
+.fa-calendar-check{
+      color: white;
+      font-size: 20px;
+}
+.fa-magnifying-glass{
+      color: white;
+      font-size: 20px;
+      
+}
+.fa-magnifying-glass>:hover{
+      text-decoration: none;
+      color: black;
+      transition: 0.1s;
+}
+.maa {
+      width:1px;
+      height: 10000px;
+}

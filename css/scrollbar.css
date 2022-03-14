@@ -1,0 +1,13 @@
+/* skrollbar */
+::-webkit-scrollbar{
+      width: 10px;
+
+}
+::-webkit-scrollbar-track{
+      background-color: rgba(255, 100, 0, 0.1);
+}
+::-webkit-scrollbar-thumb{
+       border-radius: 10px;
+       height: 100px;
+        background: linear-gradient(-45deg, rgba(100, 100, 100,0.5), rgba(221, 64, 83, 1));
+}
